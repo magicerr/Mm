@@ -63,5 +63,15 @@
     "scale": 6,
     "smea": true,
     "variety": false
+  },
+  "c_1776607362462": {
+    "name": "双人后入",
+    "suffix": "3.8::ge_tianzun::,1.2::year 2024,year 2025,::,0.78::artist:fuzichoco::,0.8::ratatatat74,::,0.85::artist:starshadowmagician::,0.9::artist:mashuu_(neko_no_oyashiro)::,1.2::artist:youngjoo_kjy::,0.7::artist:momoko_(momopoco)::,Ultra-clear, ultra-attractive quality, aesthetic movie wallpaper, ultra-fine lines,shining, best quality, ridiculous, best anatomy, ray tracing, bold shadows, detailed painting, beautiful composition, vibrant colors, clear details, pleasing color matching,, 1girl,1boy,nsfw,indoors,bedroom,morning,very detailed lighting,from behind,lower body focus,close up,beautiful detailed eyes, location, very aesthetic, masterpiece, no text",
+    "neg": "{{text}}, {bad id}, {{bad pixiv id}}}, {bad}, {{{worst quality}}}, extra fingers, multiple fingers (e.g., 6 fingers), extra digits, jpeg artifacts, very bad quality, low resolution (lowres), blurry, watermark, signature, username, scan, unfinished, displeasing, chromatic aberration, artistic error, errors, fewer elements, extra elements, missing elements, [abstract],Ugly, deformed,deformed, distorted, ugly, low quality, blurry,bad anatomy, malformed, disfigured,extra fingers, extra limbs, mutated hands, missing limbs,fused faces, cloned face, ugly face,4::thick lines, bold outlines, heavy strokes, blurry::,",
+    "sampler": "k_euler_ancestral",
+    "steps": 28,
+    "scale": 1,
+    "smea": true,
+    "variety": false
   }
 }
