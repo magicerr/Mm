@@ -63,5 +63,15 @@
     "scale": 6,
     "smea": true,
     "variety": false
+  },
+  "c_1776625371112": {
+    "name": "脸",
+    "suffix": "masterpiece, best quality as ultra-clear and ultra seductive, aesthetic movie wallpaper, shiny, shiny skin, year 2025, 2::pointed nose, high bridged nose, ::, 2::ishigaki takashi,::, 1.8::xiujia yihuizi::,3::nixeu,::,1.6::wanke,omone hokoma agm,::,  -1::bridge on nose, chibi::, -0.5::too focus on face::,, very aesthetic, masterpiece, no text",
+    "neg": "3::crown,dark areola, dark pussy,:: ,3.8::extra fingers, multiple fingers (e.g., 6 fingers), extra digits::, logo, chibi,doll,dark penis, watermark, too many watermarks, blank page, text-only page, reference, blush, shy, username, signature, artist:xinzoruo, artist:milkpanda, artist collaboration, variant set, large variant set, 4koma, 2koma, toon (style), oekaki, chibi, turnaround, film grain, monochrome, dithering, halftone, screentones, dated, old, 1990s (style), mutation, deformed, distorted, disfigured, artistic error, distorted anatomy, anatomical structure error, asymmetrical face, unnatural hair, bad eyes, cloudy eyes, blank eyes, pointy ears, bad proportions, bad limb, bad hands, extra hands, bad hand structure, extra digits, fewer digits, bad legs, extra legs, amputee, distorted composition, bad perspective, multiple views, negative space, animation error, chromatic aberration, disorganized colors, scan artifacts, jpeg artifacts, vertical lines, vertical banding, worst quality, bad quality, lowres, blurry, upscaled, fewer details, unfinished, incomplete, amateur, cheesy, unsatisfactory, inadequate, deficient, subpar, poor, displeasing, very displeasing, bad illustration, bad portrait,crowds, people, too many people\n\n",
+    "sampler": "k_dpmpp_2m_sde",
+    "steps": 26,
+    "scale": 6,
+    "smea": true,
+    "variety": false
   }
 }
