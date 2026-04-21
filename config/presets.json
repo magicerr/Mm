@@ -10,26 +10,24 @@
     "variety": false
   },
   "glossy": {
-    "name": "清透润泽",
-    "sampler": "k_dpmpp_2m",
+    "name": "目前最好的带n",
+    "suffix": "artist:soejima shigenori, [[[[artist:z3zz4]]]], [[[misaka_12003-gou]]], artist:96yottea, {{{{artist:murata_yuusuke}}}}, [[[[[[[[artist:drive shot]]]]]]]], [[[[[artist:nishiii26miii]]]]], 0.2::artist:mgong520 ::, [[[[[[[artist:kome_cola]]]]]]], [[[artist:hito komoru]]], year 2024, 0.8:: realistic, 4K ::, 2::nsfw, uncensored ::\n1.2:: dynamic angle ::, modeling pose, \n1.3::very aesthetic,absurdres, highres, highly finished,amazing quality, masterpiece, best quality::,\n -1.7::simple illustration::, best anatomy, fine lines, -2::upscaled, blurry::",
+    "neg": "{{{split scenes, multiple view}}}, blurry, lowres, error, worst quality, toys, stuffed animal, stuffed toys, bad anatomy, bad hands, bad quality, jpeg artifacts, bad quality, very displeasing, chromatic aberration, @_@, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, [abstract], mutated hands, extra hand, mismatched pupils, 5:: artist collaboration::",
+    "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
-    "noise": "native",
     "smea": true,
-    "variety": false,
-    "suffix": "{artist:luohuarumeng}, {artist:ciloranko}, clean style, soft lighting, {glossy skin}, {wet skin}, smooth skin, delicate features, {detailed eyes}, refined details, beautiful lighting, elegant",
-    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, dry skin, rough skin, matte skin, dirty, messy, gritty, dark theme"
+    "variety": true
   },
   "game": {
-    "name": "游戏立绘",
-    "sampler": "k_dpmpp_2m",
+    "name": "不带n",
+    "suffix": "artist:soejima shigenori, [[[[artist:z3zz4]]]], [[[misaka_12003-gou]]], artist:96yottea, {{{{artist:murata_yuusuke}}}}, [[[[[[[[artist:drive shot]]]]]]]], [[[[[artist:nishiii26miii]]]]], 0.2::artist:mgong520 ::, [[[[[[[artist:kome_cola]]]]]]], [[[artist:hito komoru]]], year 2024, 0.8:: realistic, 4K ::, \n1.2:: dynamic angle ::, modeling pose, \n1.3::very aesthetic,absurdres, highres, highly finished,amazing quality, masterpiece, best quality::,\n -1.7::simple illustration::, best anatomy, fine lines, -2::upscaled, blurry::",
+    "neg": "{{{split scenes, multiple view}}}, blurry, lowres, error, worst quality, toys, stuffed animal, stuffed toys, bad anatomy, bad hands, bad quality, jpeg artifacts, bad quality, very displeasing, chromatic aberration, @_@, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, [abstract], mutated hands, extra hand, mismatched pupils, 5:: artist collaboration::",
+    "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 7,
-    "noise": "native",
+    "scale": 6,
     "smea": true,
-    "variety": false,
-    "suffix": "{artist:lack}, {artist:rella}, {artist:neco}, official art, game cg, vibrant colors, high contrast, sharp lines, clean lineart, intricate details, dynamic, glossy",
-    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, dull colors, muted colors, soft lines, sketchy, watercolor, painterly, messy background"
+    "variety": false
   },
   "tension": {
     "name": "肢体张力",
