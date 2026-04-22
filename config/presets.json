@@ -30,15 +30,14 @@
     "variety": false
   },
   "tension": {
-    "name": "肢体张力",
+    "name": "二郎腿古风图的",
+    "suffix": "3.8::ge_tianzun::,1.2::year 2024,year 2025,::,0.9::artist:channel_(caststation::),0.78::artist:fuzichoco::,0.8::ratatatat74,::,0.85::artist:starshadowmagician::,0.9::artist:mashuu_(neko_no_oyashiro)::,1.2::artist:youngjoo_kjy::,0.7::artist:momoko_(momopoco)::,0.85::artist:kome_cola::,high resolution,8k resolution,masterpiece,best quality,perfect rendering,realistic rendering,detailed textures,intricate details,sharp focus,smooth skin,photorealisti,, 1milf,nsfw,",
+    "neg": "{{text}}, {bad id}, {{bad pixiv id}}}, {bad}, {{{worst quality}}}, extra fingers, multiple fingers (e.g., 6 fingers), extra digits, jpeg artifacts, very bad quality, low resolution (lowres), blurry, watermark, signature, username, scan, unfinished, displeasing, chromatic aberration, artistic error, errors, fewer elements, extra elements, missing elements, [abstract],Ugly, deformed,deformed, distorted, ugly, low quality, blurry,bad anatomy, malformed, disfigured,extra fingers, extra limbs, mutated hands, missing limbs,fused faces, cloned face, ugly face,4::thick lines, bold outlines, heavy strokes, blurry,mosaic::,5::ugly, ugly face, bad face, poorly drawn face::, lowres, artistic error, film grain, scan artifacts, worst quality, bad quality, jpeg artifacts, very displeasing, chromatic aberration, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page,lowres, jpeg artifacts, unfinished, scan, watermark, chromatic aberration, signature, username, artistic error, error, displeasing, very displeasing, abstract, deformed hands, deformed feet, distorted body, unnatural body, asymmetrical limbs, floating limbs, disconnected limbs, blood vessel, western woman, western face,g error::,\n\n1.5::ray tracing artifact::, \n1.5::denoising failure::, \n1.5::subsurface scattering error::, \n1.5::specular aliasing::, \n1.5::z-fighting::, \n1.5::UV stretching::,\n1.5::plastic skin::, \n1.5::wax figure::, \n1.5::clay render::, \n1.5::oversaturated::, \n1.5::overexposed::, \n1.5::specular overflow::, \n1.5::PBR error::,\n1.6::watermark::, \n1.6::signature::, \n1.6::text::, \n1.6::username::, \n1.6::frame border::,\n1.5::motion blur::, \n1.5::chromatic aberration::, \n1.5::lens flare artifact::, \n1.5::vignetting::,\n1.5::facial asymmetry::, \n1.5::iris deformation::, \n1.5::disproportional philtrum::, \n1.5::elf ear::, \n1.5::doll joint::",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 6.5,
-    "noise": "karras",
+    "scale": 5.5,
     "smea": true,
-    "variety": false,
-    "suffix": "{artist:miazi}, detailed, high quality, {dynamic pose}, {glistening skin}, {sweat}, dramatic angle, expressive face, detailed anatomy, soft shading",
-    "neg": "lowres, bad anatomy, bad hands, worst quality, low quality, blurry, poorly drawn, bad face, distorted face, stiff pose, static, flat lighting, dry skin, simple background"
+    "variety": false
   },
   "impasto": {
     "name": "精致厚涂",
