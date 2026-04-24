@@ -61,13 +61,15 @@
   },
   "c_1776657898386": {
     "name": "试试",
-    "suffix": "1girl, nsfw, 1.2::misaka_12003-gou ::, 0.8::dino_(dinoartforame), wanke, liduke ::, year 2025, realistic, 4k, 1.5::photorealistic::, 1.5::photo(medium)::, 20::best quality, absurdres, very aesthetic, detailed, masterpiece::",
+    "suffix": " 1.2::misaka_12003-gou ::, 0.8::dino_(dinoartforame), wanke, liduke ::, year 2025, realistic, 4k, 1.5::photorealistic::, 1.5::photo(medium)::, 20::best quality, absurdres, very aesthetic, detailed, masterpiece::",
     "neg": "{{text}}, {bad id}, {{bad pixiv id}}}, {bad}, {{{worst quality}}}, extra fingers, multiple fingers (e.g., 6 fingers), extra digits, jpeg artifacts, very bad quality, low resolution (lowres), blurry, watermark, signature, username, scan, unfinished, displeasing, chromatic aberration, artistic error, errors, fewer elements, extra elements, missing elements, [abstract],Ugly, deformed,deformed, distorted, ugly, low quality, blurry,bad anatomy, malformed, disfigured,extra fingers, extra limbs, mutated hands, missing limbs,fused faces, cloned face, ugly face,4::thick lines, bold outlines, heavy strokes, blurry::,",
     "sampler": "k_euler_ancestral",
     "steps": 28,
     "scale": 6,
+    "rescale": 0,
+    "noise": "karras",
     "smea": true,
-    "variety": false
+    "variety": true
   },
   "c_1776665689186": {
     "name": "精致",
