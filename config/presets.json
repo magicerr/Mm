@@ -1,11 +1,13 @@
 {
   "anime": {
-    "name": "4",
+    "name": "幼态",
     "suffix": "4::masterpiece, best quality ::, 2::official art, year2024 ::,\n1.75::Artist:yoneyama_mai ::,\n0.85::Artist:rella ::,\n0.75::Artist:hiten_(hitenkei) ::,\n1.25::Artist:Vincent van Gogh ::,\n1.25::Artist:qiandaiyiyu ::,\n0.75::Artist:ruanjia ::,\n0.65::Artist:void_0 ::,\n-2::3D,2koma::,no text,\n\n1girl, nsfw, prism light dispersion, iridescent glow, sparkling dust, pastel color shifts, dreamy blur, soft focus lights, glowing orbs, swirling light trails, magical particles, light ribbons, color bloom, gradient overlays, twinkling highlights, blurred halos, gentle lens flare, floating light spots, soft gradient background, warm and cool contrast, delicate color bleeding, subtle glow halos, radiant color gradients, floating petals, ephemeral sparkles, light shimmer, gentle haze, soft edge glow, layered transparency, colorful refraction, diffuse glow, dynamic light movement, shimmering texture, blurred streaks, silky gradients, light waves, flowing luminosity, floating motes, dreamy atmosphere, soft glints, , best quality, amazing quality, very aesthetic, absurdres\n",
     "neg": "worst quality,low quality,artist collaboration, bad anatomy,extra fingers,extra legs, missing legs, missing fingers, mutation, text, watermark, low resolution",
     "sampler": "k_dpmpp_2m",
     "steps": 28,
     "scale": 3.5,
+    "rescale": 0,
+    "noise": "native",
     "smea": true,
     "variety": false
   },
@@ -20,14 +22,16 @@
     "variety": true
   },
   "game": {
-    "name": "不带n",
-    "suffix": "artist:soejima shigenori, [[[[artist:z3zz4]]]], [[[misaka_12003-gou]]], artist:96yottea, {{{{artist:murata_yuusuke}}}}, [[[[[[[[artist:drive shot]]]]]]]], [[[[[artist:nishiii26miii]]]]], 0.2::artist:mgong520 ::, [[[[[[[artist:kome_cola]]]]]]], [[[artist:hito komoru]]], year 2024, 0.8:: realistic, 4K ::, \n1.2:: dynamic angle ::, modeling pose, \n1.3::very aesthetic,absurdres, highres, highly finished,amazing quality, masterpiece, best quality::,\n -1.7::simple illustration::, best anatomy, fine lines, -2::upscaled, blurry::",
-    "neg": "{{{split scenes, multiple view}}}, blurry, lowres, error, worst quality, toys, stuffed animal, stuffed toys, bad anatomy, bad hands, bad quality, jpeg artifacts, bad quality, very displeasing, chromatic aberration, @_@, watermark, unfinished, displeasing, chromatic aberration, signature, extra digits, artistic error, username, [abstract], mutated hands, extra hand, mismatched pupils, 5:: artist collaboration::",
+    "name": "不带镜头",
+    "suffix": "3.8::ge_tianzun::,1.2::year 2024,year 2025,::,1.1::murata_yuusuke::,0.9::channel_(caststation::),0.78::fuzichoco::,0.8::ratatatat74,::,0.85::starshadowmagician::,0.9::mashuu_(neko_no_oyashiro)::,1.2::youngjoo_kjy::,0.7::momoko_(momopoco)::,0.85::kome_cola::,high resolution,8k resolution,perfect rendering,realistic rendering,detailed textures,intricate details,smooth skin,sharp focus,photorealisti,-2::chibi::,0.95::nishiii26miii::,, 1.1::best quality::,1.2::masterpiece::,1.1::8k::,1.1::highres::,1.1::cinematic lighting::, {{0.5::[official_art, granblue_fantasy]::,1.8::quasarcake::, 1.8::aoi_ogata::,2.5::syakemayusan ::,}}",
+    "neg": " 3.8::wrinkled_skin,Fine Lines,::,{{text}}, {bad id}, {{bad pixiv id}}}, {bad}, {{{worst quality}}}, 3.8::extra fingers, multiple fingers (e.g., 6 fingers), extra digits::, jpeg artifacts, very bad quality, low resolution (lowres), blurry, watermark, signature, username, scan, unfinished, displeasing, chromatic aberration, artistic error, fewer elements, extra elements, missing elements, [abstract],deformed, distorted, bad anatomy, malformed, disfigured, extra limbs, mutated hands, missing limbs, fused faces, cloned face, ugly face,4::thick lines, bold outlines, heavy strokes,mosaic::,5::ugly face, poorly drawn face::, film grain, scan artifacts, dithering, halftone, screentone, multiple views, logo, too many watermarks, negative space, blank page, deformed hands, deformed feet, distorted body, unnatural body, asymmetrical limbs, floating limbs, disconnected limbs, blood vessel, western woman, western face,g error::,1.5::ray tracing artifact::,1.5::denoising failure::,1.5::subsurface scattering error::,1.5::specular aliasing::, 1.5::z-fighting::, 1.5::UV stretching::,1.5::plastic skin::, 1.5::wax figure::, 1.5::clay render::,1.5::oversaturated::,1.5::overexposed::, 1.5::specular overflow::,1.5::PBR error::,1.6::frame border::,1.5::motion blur::,1.5::lens flare artifact::,1.5::vignetting::,1.5::facial asymmetry::,1.5::iris deformation::,1.5::disproportional philtrum::,1.5::elf ear::,1.5::doll joint::,3.8::mosaic,wrinkled_skin,Fine Lines,::,",
     "sampler": "k_euler_ancestral",
     "steps": 28,
-    "scale": 6,
+    "scale": 5.5,
+    "rescale": 0.6,
+    "noise": "karras",
     "smea": true,
-    "variety": false
+    "variety": true
   },
   "tension": {
     "name": "二郎腿古风图的",
